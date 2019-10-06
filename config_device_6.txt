@@ -1,0 +1,1 @@
+{"config_device_6": [{"id": "device_6", "freq_per_minute": 10, "minima": 60, "max_1": 75, "max_2": 85, "thershold": 75, "extreme_count": 5}]}
